@@ -11,3 +11,5 @@ I have 2+ years of work experience as a Software Developer. Initially I started 
 I am now actively seeking full-time position as Software Developer to enhance my knowledge on the software development and create innovative solutions that will solve challenging problems in world. 
 
 I pride myself on my ability to adapt to and provide innovative solutions in various situations
+
+[back to home](./)
