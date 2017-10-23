@@ -3,3 +3,12 @@ description: Software Developer
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+
+author:
+  name:           'Prasanna Subburaj'
+  url:            prasanna1433.github.io
+  email:          ''
+  github:         'https://github.com/prasanna1433'
+  twitter:        'https://twitter.com/prasanna1433'
+  googleplus:     ''
+  linkedin:       'https://www.linkedin.com/in/prasannasubburaj '
